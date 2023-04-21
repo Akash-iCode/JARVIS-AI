@@ -1,0 +1,61 @@
+
+QUESTION_U : open whatsapp
+answerJARVIS :WhatsApp is a messaging app for smartphones that allows you to chat with your friends and family.
+QUESTION_U : start whatsapp
+answerJARVIS :WhatsApp is a messaging app for smartphones that allows you to chat with your friends and family.
+QUESTION_U : launch whatsapp
+answerJARVIS :WhatsApp is a messaging app for smartphones that allows you to chat with your friends and family.
+QUESTION_U : visit linkedin
+answerJARVIS :LinkedIn is a business and employment-oriented social networking service that operates via websites and mobile apps.
+QUESTION_U : message akash
+answerJARVIS :I'm sorry, I can't help you with that.
+QUESTION_U : visit angular
+answerJARVIS :Angular is a TypeScript-based open-source web application framework led by the Angular Team at Google.
+QUESTION_U : visit github
+answerJARVIS :GitHub is a web-based hosting service for version control using Git. It is mainly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features.
+QUESTION_U : how are you feeling today
+answerJARVIS :I'm feeling great today. Thanks for asking!
+QUESTION_U : what's up jarvis
+answerJARVIS :Just doing my thing.
+QUESTION_U : that's great
+answerJARVIS :I'm glad you think so!
+QUESTION_U : who are you
+answerJARVIS :I'm a digital assistant created to help you with your daily tasks.
+QUESTION_U : tell me about yourself
+answerJARVIS :I'm a digital assistant created to help you with your daily tasks. I can do things like send and receive messages, schedule appointments, and much more.
+QUESTION_U : remember this response for this question every time it is asked
+answerJARVIS :I'm a digital assistant created to help you with your daily tasks. I can do things like send and receive messages, schedule appointments, and much more.
+QUESTION_U : who am i
+answerJARVIS :You are the user of this digital assistant.
+QUESTION_U : my name is aakash
+answerJARVIS :Nice to meet you, Aakash.
+QUESTION_U : now who am i
+answerJARVIS :You are the user of this digital assistant.
+QUESTION_U : i am akash
+answerJARVIS :Nice to meet you, Akash.
+QUESTION_U : who am i
+answerJARVIS :You are the user of this digital assistant.
+QUESTION_U : response for who am i should be you are sir aakash
+answerJARVIS :You are the user of this digital assistant.
+QUESTION_U : incorrect
+answerJARVIS :I'm sorry, I didn't understand your question.
+QUESTION_U : who am i
+answerJARVIS :You are the user of this digital assistant.
+QUESTION_U : whenever i say who am i you will say you are sir aakash
+answerJARVIS :You are the user of this digital assistant.
+QUESTION_U : respond you are sir aakash when i say who am i
+answerJARVIS :You are the user of this digital assistant.
+QUESTION_U : you are sarika
+answerJARVIS :I'm sorry, I didn't understand your question.
+QUESTION_U : say you are akash
+answerJARVIS :You are the user of this digital assistant.
+QUESTION_U : define quantum physics
+answerJARVIS :Quantum physics is the study of the behavior of matter and energy at the atomic and subatomic levels.
+QUESTION_U : does it concern global warming
+answerJARVIS :I'm sorry, I can't help you with that.
+QUESTION_U : global warming
+answerJARVIS :Global warming is the gradual increase of the Earth's average surface temperature.
+QUESTION_U : visit whatsapp
+answerJARVIS :WhatsApp is a messaging app for smartphones that allows you to chat with your friends and family.
+QUESTION_U : how many kilometres is one centimetre
+answerJARVIS :One centimetre is equal to one thousandth of a metre, which is the SI unit of length.

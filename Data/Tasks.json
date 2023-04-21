@@ -1,0 +1,28 @@
+{
+    "intents":[
+        {
+            "tag":"open",
+            "patterns":["open","start","launch","visit","reopen","relaunch"
+            ],
+            "responses":["open"
+            ]
+        },
+        {
+            "tag":"send",
+            "patterns":["send","whatsapp","message","send whatsapp", "send as whatsapp"
+            ],
+            "responses":["whatsapp"
+            ]
+        },
+        {
+            "tag":"mails",
+            "patterns":["any mails","new emails","any e mails", "any e-mails",
+                         "new mails","new emails","new e mails", "new e-mails",
+                         "unread mails","unread emails","unread e mails","unread e-mails","check my inbox"
+            ],
+            "responses":["mailCheck"
+            ]
+        }
+        
+    ]
+}

@@ -1,0 +1,42 @@
+2023/04/21-14:25:16.923 1d28 Reusing MANIFEST C:\Users\Uzumaki\Desktop\jarvisOpenAI\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/21-14:25:16.924 1d28 Recovering log #285
+2023/04/21-14:25:17.057 1d28 Reusing old log C:\Users\Uzumaki\Desktop\jarvisOpenAI\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000285.log 
+2023/04/21-14:25:17.058 1d28 Delete type=2 #278
+2023/04/21-14:25:17.058 1d28 Delete type=2 #279
+2023/04/21-14:25:17.058 1d28 Delete type=2 #280
+2023/04/21-14:25:17.058 1d28 Delete type=2 #281
+2023/04/21-14:25:17.058 1d28 Delete type=2 #282
+2023/04/21-14:25:17.058 1d28 Delete type=2 #283
+2023/04/21-14:25:17.058 1d28 Delete type=2 #284
+2023/04/21-14:25:17.058 1d28 Delete type=2 #286
+2023/04/21-14:25:28.712 124c Level-0 table #296: started
+2023/04/21-14:25:28.758 124c Level-0 table #296: 948116 bytes OK
+2023/04/21-14:25:28.760 124c Delete type=0 #285
+2023/04/21-14:25:28.772 124c Compacting 1@1 + 7@2 files
+2023/04/21-14:25:29.006 124c Generated table #297@1: 50240 keys, 2219364 bytes
+2023/04/21-14:25:29.091 124c Generated table #298@1: 2785 keys, 2158823 bytes
+2023/04/21-14:25:29.172 124c Generated table #299@1: 2879 keys, 2156059 bytes
+2023/04/21-14:25:29.369 124c Generated table #300@1: 26032 keys, 2249696 bytes
+2023/04/21-14:25:29.521 124c Generated table #301@1: 17991 keys, 2170344 bytes
+2023/04/21-14:25:29.734 124c Generated table #302@1: 100210 keys, 2252360 bytes
+2023/04/21-14:25:29.899 124c Generated table #303@1: 69630 keys, 1584279 bytes
+2023/04/21-14:25:29.899 124c Compacted 1@1 + 7@2 files => 14790925 bytes
+2023/04/21-14:25:29.899 124c compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/04/21-14:25:30.966 124c Level-0 table #305: started
+2023/04/21-14:25:31.023 124c Level-0 table #305: 942929 bytes OK
+2023/04/21-14:25:31.025 124c Delete type=2 #287
+2023/04/21-14:25:31.025 124c Delete type=2 #288
+2023/04/21-14:25:31.025 124c Delete type=2 #289
+2023/04/21-14:25:31.025 124c Delete type=2 #290
+2023/04/21-14:25:31.025 124c Delete type=2 #291
+2023/04/21-14:25:31.026 124c Delete type=2 #292
+2023/04/21-14:25:31.026 124c Delete type=2 #293
+2023/04/21-14:25:31.026 124c Delete type=0 #295
+2023/04/21-14:25:31.026 124c Delete type=2 #296
+2023/04/21-14:25:31.037 3c84 Compacting 1@1 + 1@2 files
+2023/04/21-14:25:31.248 3c84 Generated table #306@1: 52843 keys, 2218667 bytes
+2023/04/21-14:25:31.279 3c84 Generated table #307@1: 8056 keys, 361970 bytes
+2023/04/21-14:25:31.279 3c84 Compacted 1@1 + 1@2 files => 2580637 bytes
+2023/04/21-14:25:31.280 3c84 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/04/21-14:25:31.281 3c84 Delete type=2 #297
+2023/04/21-14:25:31.281 3c84 Delete type=2 #305

@@ -1,0 +1,97 @@
+2023/04/21-14:26:38.479 1a00 Reusing MANIFEST C:\Users\Uzumaki\Desktop\jarvisOpenAI\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/21-14:26:38.480 1a00 Recovering log #304
+2023/04/21-14:26:38.575 1a00 Reusing old log C:\Users\Uzumaki\Desktop\jarvisOpenAI\userdata\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000304.log 
+2023/04/21-14:26:51.688 26d8 Level-0 table #310: started
+2023/04/21-14:26:51.751 26d8 Level-0 table #310: 1048784 bytes OK
+2023/04/21-14:26:51.753 26d8 Delete type=0 #304
+2023/04/21-14:26:51.769 26d8 Compacting 1@1 + 8@2 files
+2023/04/21-14:26:52.013 26d8 Generated table #311@1: 51288 keys, 2219383 bytes
+2023/04/21-14:26:52.097 26d8 Generated table #312@1: 3335 keys, 2163489 bytes
+2023/04/21-14:26:52.173 26d8 Generated table #313@1: 2852 keys, 2155925 bytes
+2023/04/21-14:26:52.384 26d8 Generated table #314@1: 25022 keys, 2247957 bytes
+2023/04/21-14:26:52.533 26d8 Generated table #315@1: 19589 keys, 2175195 bytes
+2023/04/21-14:26:52.763 26d8 Generated table #316@1: 96661 keys, 2245614 bytes
+2023/04/21-14:26:52.922 26d8 Generated table #317@1: 73290 keys, 1666834 bytes
+2023/04/21-14:26:52.922 26d8 Compacted 1@1 + 8@2 files => 14874397 bytes
+2023/04/21-14:26:52.923 26d8 compacted to: files[ 0 0 7 0 0 0 0 ]
+2023/04/21-14:27:16.199 26d8 Level-0 table #319: started
+2023/04/21-14:27:16.256 26d8 Level-0 table #319: 896533 bytes OK
+2023/04/21-14:27:16.258 26d8 Delete type=2 #298
+2023/04/21-14:27:16.258 26d8 Delete type=2 #299
+2023/04/21-14:27:16.258 26d8 Delete type=2 #300
+2023/04/21-14:27:16.258 26d8 Delete type=2 #301
+2023/04/21-14:27:16.258 26d8 Delete type=2 #302
+2023/04/21-14:27:16.258 26d8 Delete type=2 #303
+2023/04/21-14:27:16.259 26d8 Delete type=2 #306
+2023/04/21-14:27:16.259 26d8 Delete type=2 #307
+2023/04/21-14:27:16.259 26d8 Delete type=0 #309
+2023/04/21-14:27:16.259 26d8 Delete type=2 #310
+2023/04/21-14:27:16.275 26d8 Compacting 1@1 + 5@2 files
+2023/04/21-14:27:16.510 26d8 Generated table #320@1: 51837 keys, 2219918 bytes
+2023/04/21-14:27:16.601 26d8 Generated table #321@1: 3486 keys, 2160626 bytes
+2023/04/21-14:27:16.681 26d8 Generated table #322@1: 2817 keys, 2157177 bytes
+2023/04/21-14:27:16.876 26d8 Generated table #323@1: 24928 keys, 2247761 bytes
+2023/04/21-14:27:17.040 26d8 Generated table #324@1: 19697 keys, 2173481 bytes
+2023/04/21-14:27:17.044 26d8 Generated table #325@1: 37 keys, 29225 bytes
+2023/04/21-14:27:17.044 26d8 Compacted 1@1 + 5@2 files => 10988188 bytes
+2023/04/21-14:27:17.045 26d8 compacted to: files[ 0 0 8 0 0 0 0 ]
+2023/04/21-14:27:17.046 26d8 Delete type=2 #311
+2023/04/21-14:27:17.046 26d8 Delete type=2 #312
+2023/04/21-14:27:17.046 26d8 Delete type=2 #313
+2023/04/21-14:27:17.046 26d8 Delete type=2 #314
+2023/04/21-14:27:17.046 26d8 Delete type=2 #315
+2023/04/21-14:27:17.046 26d8 Delete type=2 #319
+2023/04/21-14:28:10.101 1a00 Level-0 table #327: started
+2023/04/21-14:28:10.169 1a00 Level-0 table #327: 1034166 bytes OK
+2023/04/21-14:28:10.171 1a00 Delete type=0 #318
+2023/04/21-14:28:10.185 26d8 Compacting 1@1 + 5@2 files
+2023/04/21-14:28:10.406 26d8 Generated table #328@1: 52422 keys, 2220893 bytes
+2023/04/21-14:28:10.484 26d8 Generated table #329@1: 5194 keys, 2161346 bytes
+2023/04/21-14:28:10.550 26d8 Generated table #330@1: 2822 keys, 2162012 bytes
+2023/04/21-14:28:10.735 26d8 Generated table #331@1: 25026 keys, 2251642 bytes
+2023/04/21-14:28:10.849 26d8 Generated table #332@1: 19702 keys, 2175634 bytes
+2023/04/21-14:28:10.856 26d8 Generated table #333@1: 675 keys, 122767 bytes
+2023/04/21-14:28:10.856 26d8 Compacted 1@1 + 5@2 files => 11094294 bytes
+2023/04/21-14:28:10.857 26d8 compacted to: files[ 0 0 9 0 0 0 0 ]
+2023/04/21-14:28:10.858 26d8 Delete type=2 #320
+2023/04/21-14:28:10.858 26d8 Delete type=2 #321
+2023/04/21-14:28:10.858 26d8 Delete type=2 #322
+2023/04/21-14:28:10.858 26d8 Delete type=2 #323
+2023/04/21-14:28:10.858 26d8 Delete type=2 #324
+2023/04/21-14:28:10.858 26d8 Delete type=2 #327
+2023/04/21-14:28:33.122 26d8 Level-0 table #335: started
+2023/04/21-14:28:33.175 26d8 Level-0 table #335: 1000066 bytes OK
+2023/04/21-14:28:33.177 26d8 Delete type=0 #326
+2023/04/21-14:28:33.196 26d8 Compacting 1@1 + 5@2 files
+2023/04/21-14:28:33.435 26d8 Generated table #336@1: 51856 keys, 2219580 bytes
+2023/04/21-14:28:33.536 26d8 Generated table #337@1: 5525 keys, 2166548 bytes
+2023/04/21-14:28:33.625 26d8 Generated table #338@1: 2835 keys, 2162306 bytes
+2023/04/21-14:28:33.797 26d8 Generated table #339@1: 25027 keys, 2252646 bytes
+2023/04/21-14:28:33.915 26d8 Generated table #340@1: 19991 keys, 2176136 bytes
+2023/04/21-14:28:33.920 26d8 Generated table #341@1: 264 keys, 45907 bytes
+2023/04/21-14:28:33.920 26d8 Compacted 1@1 + 5@2 files => 11023123 bytes
+2023/04/21-14:28:33.921 26d8 compacted to: files[ 0 0 10 0 0 0 0 ]
+2023/04/21-14:28:33.922 26d8 Delete type=2 #328
+2023/04/21-14:28:33.922 26d8 Delete type=2 #329
+2023/04/21-14:28:33.922 26d8 Delete type=2 #330
+2023/04/21-14:28:33.922 26d8 Delete type=2 #331
+2023/04/21-14:28:33.922 26d8 Delete type=2 #332
+2023/04/21-14:28:33.922 26d8 Delete type=2 #335
+2023/04/21-14:28:56.960 26d8 Level-0 table #343: started
+2023/04/21-14:28:57.010 26d8 Level-0 table #343: 889092 bytes OK
+2023/04/21-14:28:57.012 26d8 Delete type=0 #334
+2023/04/21-14:28:57.027 26d8 Compacting 1@1 + 5@2 files
+2023/04/21-14:28:57.270 26d8 Generated table #344@1: 52503 keys, 2219843 bytes
+2023/04/21-14:28:57.360 26d8 Generated table #345@1: 6214 keys, 2162340 bytes
+2023/04/21-14:28:57.431 26d8 Generated table #346@1: 2831 keys, 2156331 bytes
+2023/04/21-14:28:57.616 26d8 Generated table #347@1: 24893 keys, 2250054 bytes
+2023/04/21-14:28:57.772 26d8 Generated table #348@1: 19934 keys, 2177537 bytes
+2023/04/21-14:28:57.777 26d8 Generated table #349@1: 268 keys, 44425 bytes
+2023/04/21-14:28:57.777 26d8 Compacted 1@1 + 5@2 files => 11010530 bytes
+2023/04/21-14:28:57.778 26d8 compacted to: files[ 0 0 11 0 0 0 0 ]
+2023/04/21-14:28:57.779 26d8 Delete type=2 #336
+2023/04/21-14:28:57.779 26d8 Delete type=2 #337
+2023/04/21-14:28:57.779 26d8 Delete type=2 #338
+2023/04/21-14:28:57.779 26d8 Delete type=2 #339
+2023/04/21-14:28:57.779 26d8 Delete type=2 #340
+2023/04/21-14:28:57.780 26d8 Delete type=2 #343

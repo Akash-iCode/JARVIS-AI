@@ -1,0 +1,2 @@
+api_key=vsq3HoqPSO6w+t5bbJNZojq+TFdw4ZTICPh+ViEtuPvl+ctejlP5V6VgcQoQ0Sn5VHK4dOwwXzo+vev4VXbS9w==
+wakeWords=H2Bd0bO+JDMMu4qDJ4VD/RkrEIH5znFff+TCvQh5vuMvJaMsZtvFDwT+fQeFtoQdCMKGgjCFlAzRK+vloBDO5w==
